@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Яценко PR13</string>
+    <string name="sunrise">Восход</string>
+    <string name="sun_desc">Солнце</string>
+    <string name="sky_desc">Небо</string>
+    <string name="grass_desc">Трава</string>
+</resources>

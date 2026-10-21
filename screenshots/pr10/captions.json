@@ -1,0 +1,12 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr10\\studio.png",
+    "caption": "Проект YacenkoEA_PR10 в Android Studio, воспроизведение видео",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr10\\emu_video.png",
+    "caption": "VideoView во время воспроизведения локального ролика",
+    "wide": false
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr3\\studio.png",
+    "caption": "Проект YacenkoEA_PR3 в Android Studio, счётчик нажатий",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr3\\emu_zero.png",
+    "caption": "Счётчик до нажатий равен нулю",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr3\\emu_five.png",
+    "caption": "Счётчик после пяти нажатий на кнопку",
+    "wide": false
+  }
+]

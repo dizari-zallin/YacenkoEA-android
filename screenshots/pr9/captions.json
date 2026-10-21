@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr9\\studio.png",
+    "caption": "Проект YacenkoEA_PR9 в Android Studio, воспроизведение звука",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr9\\emu_idle.png",
+    "caption": "Аудиоплеер до запуска: активна кнопка Play",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr9\\emu_play.png",
+    "caption": "Аудиоплеер во время воспроизведения: доступны Pause и Stop",
+    "wide": false
+  }
+]

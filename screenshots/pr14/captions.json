@@ -1,0 +1,27 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr14\\studio.png",
+    "caption": "Проект YacenkoEA_PR14 в Android Studio, список автомобилей",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr14\\emu_list.png",
+    "caption": "Список автомобилей в порядке возрастания цены",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr14\\emu_filter.png",
+    "caption": "Список после фильтрации по производителю Lada",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr14\\emu_form.png",
+    "caption": "Форма добавления нового автомобиля",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr14\\emu_edit.png",
+    "caption": "Форма редактирования выбранного автомобиля",
+    "wide": false
+  }
+]

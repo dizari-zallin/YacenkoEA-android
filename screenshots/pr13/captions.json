@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr13\\studio.png",
+    "caption": "Класс MainActivity проекта YacenkoEA_PR13, запуск анимации восхода",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr13\\emu_before.png",
+    "caption": "Небо, трава и солнце до анимации",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr13\\emu_after.png",
+    "caption": "Солнце после анимации восхода",
+    "wide": false
+  }
+]

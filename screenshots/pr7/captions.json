@@ -1,0 +1,22 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr7\\studio.png",
+    "caption": "Проект YacenkoEA_PR7 в Android Studio, возврат результата",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr7\\emu_empty.png",
+    "caption": "Первый экран до получения результата",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr7\\emu_form.png",
+    "caption": "Второй экран с полем имени",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr7\\emu_back.png",
+    "caption": "Первый экран после возврата имени из второй активности",
+    "wide": false
+  }
+]

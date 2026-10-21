@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr8\\studio.png",
+    "caption": "Проект YacenkoEA_PR8 в Android Studio, выбор изображения",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr8\\emu_fit.png",
+    "caption": "Изображение в режиме FIT_CENTER",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr8\\emu_crop.png",
+    "caption": "Изображение в режиме CENTER_CROP",
+    "wide": false
+  }
+]

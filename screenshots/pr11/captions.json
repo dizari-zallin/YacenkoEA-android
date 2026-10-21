@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr11\\studio.png",
+    "caption": "Класс MainActivity проекта YacenkoEA_PR11, запуск покадровой анимации",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr11\\emu_frame.png",
+    "caption": "Первый кадр анимации до запуска",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr11\\emu_run.png",
+    "caption": "Кадровая анимация во время воспроизведения",
+    "wide": false
+  }
+]

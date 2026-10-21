@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr5\\studio.png",
+    "caption": "Проект YacenkoEA_PR5 в Android Studio, переход между окнами",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr5\\emu_first.png",
+    "caption": "Первая активность",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr5\\emu_second.png",
+    "caption": "Вторая активность после перехода по кнопке",
+    "wide": false
+  }
+]

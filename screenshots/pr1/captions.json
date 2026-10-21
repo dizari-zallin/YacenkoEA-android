@@ -1,0 +1,12 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr1\\studio.png",
+    "caption": "Проект YacenkoEA_PR1 в Android Studio, класс MainActivity",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr1\\emu_hello.png",
+    "caption": "Окно эмулятора после запуска проекта: надпись Hello World!",
+    "wide": false
+  }
+]

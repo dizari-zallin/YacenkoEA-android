@@ -1,0 +1,12 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr4\\studio.png",
+    "caption": "Файл цветовых ресурсов my_colors.xml проекта YacenkoEA_PR4",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr4\\emu_resources.png",
+    "caption": "Строка и цвета, взятые из ресурсов strings.xml, headers.xml и my_colors.xml",
+    "wide": false
+  }
+]

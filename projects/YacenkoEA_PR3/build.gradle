@@ -1,0 +1,9 @@
+plugins {
+    id 'com.android.application' version '9.4.1' apply false
+}
+
+layout.buildDirectory.set(file("D:/androidALL-build/YacenkoEA_PR3/root"))
+
+subprojects {
+    layout.buildDirectory.set(file("D:/androidALL-build/YacenkoEA_PR3/${project.name}"))
+}

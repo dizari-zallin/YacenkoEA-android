@@ -1,0 +1,22 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr12\\studio.png",
+    "caption": "Анимация rotate_center.xml проекта YacenkoEA_PR12",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr12\\emu_still.png",
+    "caption": "Изображение до запуска анимации",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr12\\emu_center.png",
+    "caption": "Вращение вокруг центра изображения",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr12\\emu_corner.png",
+    "caption": "Вращение вокруг левого верхнего угла",
+    "wide": false
+  }
+]

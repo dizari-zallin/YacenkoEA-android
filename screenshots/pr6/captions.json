@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr6\\studio.png",
+    "caption": "Проект YacenkoEA_PR6 в Android Studio, передача данных студента",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr6\\emu_form.png",
+    "caption": "Форма ввода данных студента",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr6\\emu_result.png",
+    "caption": "Вторая активность с данными, полученными через Intent",
+    "wide": false
+  }
+]

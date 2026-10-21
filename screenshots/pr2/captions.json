@@ -1,0 +1,17 @@
+[
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr2\\studio.png",
+    "caption": "Проект YacenkoEA_PR2 в Android Studio, обработчик кнопки",
+    "wide": true
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr2\\emu_before.png",
+    "caption": "Экран до нажатия кнопки: поле ввода видимо, картинка скрыта",
+    "wide": false
+  },
+  {
+    "file": "C:\\Users\\Shmurdyakich\\Desktop\\androidALL\\screenshots\\pr2\\emu_after.png",
+    "caption": "Экран после нажатия кнопки: введённый текст и изображение",
+    "wide": false
+  }
+]
